@@ -26,3 +26,4 @@ app.listen(8000, (err, address) => {
         process.exit(1);
     }
 });
+module.exports = app
